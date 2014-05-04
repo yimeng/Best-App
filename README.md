@@ -1,35 +1,42 @@
 # Best App
+## 写在前面
+>  由于自己比较懒，这里暂时就记录下自己平时买的软件吧。以下是正文：而且列表中大于50刀的如果没有特别特别的需要，真心不太想入。
 
-*经常会有朋友询问有哪些 Mac OS 下的 App 或 服务 值得付费使用，  
-于是制作了这个 List 页面，旨在收集和推荐出色的 App 和 服务*
+## 密码管理类
 
-欢迎大家推荐好的 App 添加，请`Fork`、`Star`或在 [收集&提交页] 中提交 :)
+* 1password
+  * 用户体验好，多平台支持（iOS MacOS Windows） 除了网站登录密码还可以存储其他的信息 可以通过dropbox iCloud同步
+  * 一个字 贵 升级事件导致了用户口碑差 
 
-====
+* keepassX
+	* 开源 自由 功能多 跨平台不用花那么多银子
+	* 用户体验确实和1password差的不是一星半点
+* lastpass
+	* 不用本地存密码，产品免费
+	* 订阅服务收费，而且出现过安全事件。
+	
+	
+1password胜出，MacOS的版本已经入了，有空再入个iOS的就齐活了。
 
->注1：以下功能简述中不再使用 `最好的`、`最强的`、`最完美的` 等主观性较强的表达，因为此处列表中的Apps都是非常出色的，
->  
->注2：行末的 # 为相关测评文章或同类横向对比文章链接(完善中...)，请自行参考。  
->注3：本项目 **不接受** 任何形式的捐赠、资助或广告。
 
-## 1. 付费软件篇 (Mac OS)
+## 窗口管理类
 
-`Mac OS`平台下有众多优秀的软件工具。  
-下面先就付费软件做一个推荐列表，希望供大家购买付费App时参考。
+* Moom
+
 
 #### 1.1 效率工具类
 
-评分   | 名称  | 功能简述 | 单价 | 测评
+评分   | 名称  | 功能简述 | 单价 | 测评 | 购买（途径）
 ----- | ----- | ------ | ----- | -----
-★★★★★ | [Alfred] | Top#1，不解释 | £17 | [#](http://www.macstories.net/reviews/alfred-2-rewritten-from-the-ground-up-workflows-themes-and-more/)
-★★★★★ | [1Password] | 密码管理，用过就离不开了 | $49.99 | [#](http://www.macstories.net/reviews/1password-4-for-mac-review/)
-★★★★★ | [Moom] | 窗口管理，多屏切换工具 | $10 | [#](http://mac.appstorm.net/reviews/productivity-review/moom-window-management-rethought/)
-★★★★★ | [iStat Menus] | 系统状态参数实时查看 | $16 | [#](http://mac.appstorm.net/reviews/utilities/istat-menus-4-menubar-system-monitoring-improved/)
-★★★★★ | [Bartender] | 自定义右上角Menu栏图标 | $15 | [#](http://www.macworld.com/article/2013739/mac-gems-bartender-helps-you-take-control-of-menu-bar-icons.html)
-★★★★☆ | [Fantastical] | 基于日历的GTD提醒 | $19.99 | [#](http://www.macworld.com/article/2058681/fantastical-2-for-iphone-review-calendar-app-gets-more-fantastic-for-ios-7.html)
-★★★★☆ | [Tweetbot] | Twitter客户端 | $19.99 | [#](http://www.macworld.com/article/2012647/mac-gems-tweetbot-for-mac-is-exactly-what-youd-expect.html)
-★★★★☆ | [Sparrow] | Email客户端 | $9.99 | [#](http://mac.appstorm.net/reviews/communication-review/sparrow-minimal-functional-and-elegant-email/)
-★★★★☆ | [Airmail] | Email客户端新秀，被称为Sparrow终结者 | $1.99 | [#](http://mac.appstorm.net/reviews/communication-review/airmail-a-real-sparrow-alternative/)
+★★★★★ | [Alfred] | Top#1，不解释 | £32 | [#](http://www.macstories.net/reviews/alfred-2-rewritten-from-the-ground-up-workflows-themes-and-more/)|不解释，买的Mega Supporter版本
+★★★★★ | [1Password] | 密码管理，用过就离不开了 | $49.99 | [#](http://www.macstories.net/reviews/1password-4-for-mac-review/)|话说真心没感觉太好用，不过比较起来，还真没太多其他选择
+★★★★★ | [Moom] | 窗口管理，多屏切换工具 | $10 | [#](http://mac.appstorm.net/reviews/productivity-review/moom-window-management-rethought/)|同上，比较起来这玩意算是比较好用的了，当然有时间和经历还是有不少可以折腾的选择的。
+★★★★★ | [iStat Menus] | 系统状态参数实时查看 | $16 | [#](http://mac.appstorm.net/reviews/utilities/istat-menus-4-menubar-system-monitoring-improved/)|如果这玩意能监控服务器的状态就好了。
+★★★★★ | [Bartender] | 自定义右上角Menu栏图标 | $15 | [#](http://www.macworld.com/article/2013739/mac-gems-bartender-helps-you-take-control-of-menu-bar-icons.html)|已入，开始没感觉有啥作用，当软件越来越多的时候，这个还是需要弄一个的。
+★★★★☆ | [Fantastical] | 基于日历的GTD提醒 | $19.99 | [#](http://www.macworld.com/article/2058681/fantastical-2-for-iphone-review-calendar-app-gets-more-fantastic-for-ios-7.html)|已入，但是用的似乎不多，平时看日历都是用系统原生的多一些，可能事务没有那么多吧：）
+★★★★☆ | [Tweetbot] | Twitter客户端 | $19.99 | [#](http://www.macworld.com/article/2012647/mac-gems-tweetbot-for-mac-is-exactly-what-youd-expect.html)|平时不话唠，平时看看用网页版足以
+★★★★☆ | [Sparrow] | Email客户端 | $9.99 | [#](http://mac.appstorm.net/reviews/communication-review/sparrow-minimal-functional-and-elegant-email/)|用原生的飘过，偶尔用用outlook，没办法单位用的是exchange
+★★★★☆ | [Airmail] | Email客户端新秀，被称为Sparrow终结者 | $1.99 | [#](http://mac.appstorm.net/reviews/communication-review/airmail-a-real-sparrow-alternative/)|继续原生
 ★★★★☆ | [jitouch] | 触控板增强，画个字母B，打开浏览器 | $5.99 | [#](http://www.macworld.com/article/1151457/jitouch.html)
 ★★★★☆ | [OmniFocus] | GTD，学好上手之后秒杀同类 | $79.99 | [#](http://www.asianefficiency.com/technology/omnifocus-mac-review/)
 ★★★★☆ | [Keyboard Maestro] | 定制键盘快捷操作 | $36 | [#](http://mac.appstorm.net/how-to/productivity-how-to/how-to-become-a-mac-keyboard-maestro/)
